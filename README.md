@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome To Reboot Consultancy & Services</h1>
 <h3 align="center">Provides Excellent IT Services</h3>
-<img align ="right" alt="Services" width="240"  src="https://lh5.googleusercontent.com/p/AF1QipMho7qcnUcYYlYknW93MoS_t14k3ftvN96cO75F=w750-h813-p-k-no" >	
+<img align ="right" alt="Services" width="240"  src="https://lh5.googleusercontent.com/p/AF1QipMho7qcnUcYYlYknW93MoS_t14k3ftvN96cO75F=w750-h813-p-k-no" style="margin-right= 40px;" >	
 
 
 
