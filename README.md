@@ -1,8 +1,8 @@
-[![MasterHead](https://lh5.googleusercontent.com/p/AF1QipMho7qcnUcYYlYknW93MoS_t14k3ftvN96cO75F=w750-h813-p-k-no)](https://test.rebootcas.com)
+[![MasterHead](https://lh3.googleusercontent.com/p/AF1QipNi8bXKFCa_Al6iZ5XpwE1JEzBScFhFjOLaPTP0=s1360-w1360-h1020)](https://test.rebootcas.com)
 
 <h1 align="center">Welcome To Reboot Consultancy & Services</h1>
 <h3 align="center">Provides Excellent IT Services</h3>
-<img align ="right" alt="Services" width="240" margin-right= 20%  src="https://lh5.googleusercontent.com/p/AF1QipMho7qcnUcYYlYknW93MoS_t14k3ftvN96cO75F=w750-h813-p-k-no"  >	
+<img align ="right" alt="Services" width="240" margin-right= "40px"  src="https://lh5.googleusercontent.com/p/AF1QipMho7qcnUcYYlYknW93MoS_t14k3ftvN96cO75F=w750-h813-p-k-no"  >	
 
 
 
