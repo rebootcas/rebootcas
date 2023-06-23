@@ -1,11 +1,11 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4D3DAQECr6BPldOIVQ/image-scale_191_1128/0/1687010657136?e=1688108400&v=beta&t=2bOWyGwOMsHqBhflq4cS6fwje5nyWQdJk6NuEZfFMH0)](https://test.rebootcas.com)
+
 <h1 align="center">Welcome To Reboot Consultancy & Services</h1>
-
 <h3 align="center">Provides Excellent IT Services</h3>
-<img align ="center" alt="Services" width="1200" height="400" src="https://lh3.googleusercontent.com/p/AF1QipMY8kT9u2yU0DikALaem7smGnyQ29IU3a9SS7g8=s1360-w1360-h1020" >	
+<img align ="right" alt="Services" width="270"  src="https://lh5.googleusercontent.com/p/AF1QipMho7qcnUcYYlYknW93MoS_t14k3ftvN96cO75F=w750-h813-p-k-no" >	
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rebootcas&label=Profile%20views&color=0e75b6&style=flat" alt="rebootcas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebootcas" alt="rebootcas" /></a> </p>
+
 
 - 🔭 We currently working on [REBOOTCAS](https://github.com/rebootcas/RCS_New_PR_0001)
 
@@ -20,6 +20,14 @@
 - 💬 Ask us about **Development**
 
 - 📫 How to reach me **admin@rebootcas.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rebootcas&label=Profile%20views&color=0e75b6&style=flat" alt="rebootcas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebootcas" alt="rebootcas" /></a> </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,27 +55,34 @@
 
 
 
+<h3 align="left">Reboot Computer and Services serves as the parent company, encompassing the subsidiary Reboot Consultancy and Services, which specializes in providing extensive computer hardware services and a diverse array of IT solutions such as web development, internship programs, graphic design, and various other offerings. Our core objective is to deliver holistic solutions tailored to meet your organization's computer technology requirements, enabling your business to flourish in the dynamic digital landscape.</h3>
 
 
-Reboot Computer and Services serves as the parent company, encompassing the subsidiary Reboot Consultancy and Services, which specializes in providing extensive computer hardware services and a diverse array of IT solutions such as web development, internship programs, graphic design, and various other offerings. Our core objective is to deliver holistic solutions tailored to meet your organization's computer technology requirements, enabling your business to flourish in the dynamic digital landscape.
 
 
-Website        : rebootcas.com
+- Website        : rebootcas.com
   
-Phone          : 9022117679
+- Phone          : 9022117679
 
-Industry       : IT Services and IT Consulting
+- Industry       : IT Services and IT Consulting
 
-Company size   : 2-10 employees
+- Company size   : 2-10 employees
                  4 on LinkedIn 
 
-Headquarters  : PUNE, MAHARASHTRA
+- Headquarters  : PUNE, MAHARASHTRA
 
-Founded       : 2021
+- Founded       : 2021
 
- Includes members with current employer listed as REBOOT 
- Consultancy & Services, including part-time roles.
 
+
+<div>
+
+
+  <h2 align="center">
+  Includes members with current employer listed as REBOOT  Consultancy & Services, including part-time roles.
+ 
+ </h2>
+</div>
 
 
 <!---
