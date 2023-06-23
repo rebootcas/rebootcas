@@ -15,7 +15,7 @@ Headquarters  : PUNE, MAHARASHTRA
 Founded       : 2021
 
  Includes members with current employer listed as REBOOT 
- Consultancy & Services, including part-time roles.  
+ Consultancy & Services, including part-time roles.
 
 
 
